@@ -1,0 +1,10 @@
+original_language,original_title,release_date,revenue,runtime
+en,Avatar,2009-12-10,2787965087,162
+en,Pirates of the Caribbean: At World's End,2007-05-19,961000000,169
+en,Spectre,2015-10-26,880674609,148
+en,"Dude, Where’s My Car?",2000-12-15,73180723,83
+en,The Dark Knight Rises,2012-07-16,1084939099,165
+en,John Carter,2012-03-07,284139100,132
+en,Spider-Man 3,2007-05-01,890871626,139
+en,Tangled,2010-11-24,591794936,100
+en,Avengers: Age of Ultron,2015-04-22,1405403694,141
