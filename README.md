@@ -5,8 +5,9 @@ School projects - subjects 13S111ASP1 (first year-second semester, year 2017/201
 Projects info and comments of code are in Serbian.
 
 ### Built with
-- First project: Pascal
-- Others: C
+- Project 1: Pascal
+- Projects 2, 3 and 4: C
+- Projects 5 and 6: C++
 
 #### Authors
 Aleksandra Bogicevic - @alebogi
